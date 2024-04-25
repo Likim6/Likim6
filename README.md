@@ -1,8 +1,8 @@
-- <h1 align="center">Hi 👋, I'm Likim</h1>
+<h1 align="center">Hi 👋, I'm Likim</h1>
 <h3 align="center">A passionate frontend developer from Cambodia</h3>
 
-- 🌱 I’m currently learning
-- My code never has bugs, it just develops unexpected features 😉🐛
+I’m currently learning
+My code never has bugs, it just develops unexpected features
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=likim6&label=Profile%20views&color=0e75b6&style=flat" alt="likim6" /> </p>
 

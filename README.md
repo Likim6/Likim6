@@ -1,9 +1,6 @@
 <h1>Hi 👋, I'm Likim</h1>
 <h3>A Passionate Frontend-Developer from Cambodia</h3>
 
-
-<!--
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=likim6&label=Profile%20views&color=0e75b6&style=flat" alt="likim6" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=likim6" alt="likim6" /></a> </p>
@@ -23,6 +20,10 @@
 
 <a href="https://app.daily.dev/likim6"><img src="https://api.daily.dev/devcards/v2/shfATJFDm0uoPfV0YjCqd.png?type=default&r=sl6" width="356" alt="Peng Likim's Dev Card"/></a>
 **Likim6/Likim6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+<!--
 
 Here are some ideas to get you started:
 

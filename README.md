@@ -19,12 +19,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=likim6&show_icons=true&locale=en" alt="likim6" /></p>
 
 <a href="https://app.daily.dev/likim6"><img src="https://api.daily.dev/devcards/v2/shfATJFDm0uoPfV0YjCqd.png?type=default&r=sl6" width="356" alt="Peng Likim's Dev Card"/></a>
-**Likim6/Likim6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 
 <!--
 
+**Likim6/Likim6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

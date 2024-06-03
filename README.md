@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Likim</h1>
-<h3 align="center">A passionate frontend developer from Cambodia</h3>
-
-
+<h1>Hi 👋, I'm Likim</h1>
+<h3>A passionate frontend developer from Cambodia</h3>
 
 
 <!--

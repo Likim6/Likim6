@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Likim</h1>
+<h1>Hello 👋, I'm Likim</h1>
 <h3>A Passionate Frontend-Developer from Cambodia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=likim6&label=Profile%20views&color=0e75b6&style=flat" alt="likim6" /> </p>

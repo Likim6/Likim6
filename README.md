@@ -1,5 +1,5 @@
 <h1>Hello 👋, I'm Likim</h1>
-<h1>I’m a front end developer that’s always looking to learn new things and improve my craft. I take pride in making sure that my clients get the most out of their money and time by providing them with an easy to use website, and custom design/development.</h1>
+<p>I’m a front end developer that’s always looking to learn new things and improve my craft. I take pride in making sure that my clients get the most out of their money and time by providing them with an easy to use website, and custom design/development.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=likim6&label=Profile%20views&color=0e75b6&style=flat" alt="likim6" /> </p>
 

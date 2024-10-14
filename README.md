@@ -1,5 +1,5 @@
 <h1>Hello 👋, I'm Likim</h1>
-<p>I’m a front end developer that’s always looking to learn new things and improve my craft. I take pride in making sure that my clients get the most out of their money and time by providing them with an easy to use website, and custom design/development.</p>
+<p>I’m a front-end developer who’s always looking to learn new things and improve my craft. I take pride in making sure that my clients get the most out of their money and time by providing them with an easy-to-use website, and custom design/development.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=likim6&label=Profile%20views&color=0e75b6&style=flat" alt="likim6" /> </p>
 
@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/peng-likim-755b43292/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peng likim" height="30" width="40" /></a>
 <a href="https://www.facebook.com/likim.peng?mibextid=LQQJ4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kim kim" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_likim_6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_likim_6_" height="30" width="40" /></a>
+<a href="https://www.instagram.com/likim_6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_likim_6_" height="30" width="40" /></a>
 <a href="https://youtube.com/@likim6800?si=IUaMquJVJl4qQ9ZN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="likim6" height="30" width="40" /></a>
 </p>
 

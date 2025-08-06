@@ -1,5 +1,5 @@
 <h1>Hello 👋, I'm Likim</h1>
-<p>I’m a front-end developer who’s always looking to learn new things and improve my craft.</p>
+<!-- <p>I’m a front-end developer who’s always looking to learn new things and improve my craft.</p> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=likim6&label=Profile%20views&color=0e75b6&style=flat" alt="likim6" /> </p>
 
